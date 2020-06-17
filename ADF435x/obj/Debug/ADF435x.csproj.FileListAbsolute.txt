@@ -1,0 +1,174 @@
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\ADF435x.exe
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\ADF435x.pdb
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\CyUSB.dll
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\sdpApi1.dll
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.exe
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.pdb
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\rbrennan\My Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.exe
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.pdb
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\ADF435x.exe
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\ADF435x.pdb
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\CyUSB.dll
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\bin\Debug\sdpApi1.dll
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ResGen.read.1.tlog
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\RBRENNAN\Documents\Visual Studio 2008\Projects\ADF435x\ADF435x\ADF435x\obj\Debug\ResGen.write.1.tlog
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\bin\Debug\ADF435x.exe
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\bin\Debug\ADF435x.pdb
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\bin\Debug\CyUSB.dll
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\bin\Debug\sdpApi1.dll
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.csprojAssemblyReference.cache
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.exe
+C:\Users\ngocd\Downloads\VNA\ADF435x\ADF435x\obj\Debug\ADF435x.pdb
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\bin\Debug\ADF435x.exe
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\bin\Debug\ADF435x.pdb
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\bin\Debug\CyUSB.dll
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\bin\Debug\sdpApi1.dll
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.csprojAssemblyReference.cache
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.exe
+E:\Project\IOT\VNA\AppNva\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.pdb
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\bin\Debug\ADF435x.exe
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\bin\Debug\ADF435x.pdb
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\bin\Debug\CyUSB.dll
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\bin\Debug\sdpApi1.dll
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.csprojAssemblyReference.cache
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.exe
+C:\Users\ngocd\Downloads\VNA\New folder\ADF435x_Lan 2\ADF435x\obj\Debug\ADF435x.pdb
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\bin\Debug\ADF435x.exe
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\bin\Debug\ADF435x.pdb
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\bin\Debug\CyUSB.dll
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\bin\Debug\sdpApi1.dll
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.csprojAssemblyReference.cache
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.exe
+C:\Users\ngocd\Downloads\VNA\New folder\Test\ADF435x_Lan 2_Final\ADF435x\obj\Debug\ADF435x.pdb
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csprojAssemblyReference.cache
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.exe
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.pdb
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.exe.config
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.exe
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.pdb
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\CyUSB.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sdpApi1.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.ResolveComReference.cache
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Licensing.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.SfSmithChart.WinForms.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Shared.Base.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ZedGraph.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.SfSmithChart.WinForms.xml
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Shared.Base.xml
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ZedGraph.xml
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\de\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\es\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\fr\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\hu\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\it\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ja\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\pt\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ru\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sk\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sv\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\tr\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.exe.config
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.exe
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.pdb
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\CyUSB.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sdpApi1.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Licensing.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.SfSmithChart.WinForms.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Shared.Base.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ZedGraph.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.SfSmithChart.WinForms.xml
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Shared.Base.xml
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ZedGraph.xml
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\de\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\es\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\fr\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\hu\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\it\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ja\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\pt\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ru\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sk\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sv\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\tr\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csprojAssemblyReference.cache
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.ResolveComReference.cache
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.exe
+D:\VisualStudio\LocalResponsitory\AppVna\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.pdb
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.exe.config
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.exe
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ADF435x.pdb
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\CyUSB.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sdpApi1.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Licensing.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.SfSmithChart.WinForms.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\Syncfusion.Shared.Base.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ZedGraph.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ZedGraph.xml
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\de\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\es\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\fr\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\hu\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\it\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ja\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\pt\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\ru\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sk\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\sv\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\tr\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.ResolveComReference.cache
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.Main_Form.resources
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.Properties.Resources.resources
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.GenerateResource.cache
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.CoreCompileInputs.cache
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.csproj.CopyComplete
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.exe
+D:\Apprendre\Universite\20192\VNA\AppNva\ADF435x\ADF435x_Lan 2_Final_Final\ADF435x\obj\Debug\ADF435x.pdb
